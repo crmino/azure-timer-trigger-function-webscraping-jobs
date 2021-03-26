@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionScrapingTrabajos", "FunctionScrapingTrabajos\FunctionScrapingTrabajos.csproj", "{1EE1B9B9-2BDA-4A6A-8A1B-E2AE3F3DFD55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EE1B9B9-2BDA-4A6A-8A1B-E2AE3F3DFD55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EE1B9B9-2BDA-4A6A-8A1B-E2AE3F3DFD55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EE1B9B9-2BDA-4A6A-8A1B-E2AE3F3DFD55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EE1B9B9-2BDA-4A6A-8A1B-E2AE3F3DFD55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BF41E34-FFB9-449E-B36E-3CF9A62EAF7A}
+	EndGlobalSection
+EndGlobal
